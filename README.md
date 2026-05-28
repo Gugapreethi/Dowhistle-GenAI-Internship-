@@ -393,4 +393,28 @@ using LangGraph multi-node agent flow,
 LangChain for prompt engineering,
 Groq AI for Tamil medical responses,
 and FastAPI for REST API endpoints.
+# Day 16 Learning – NalaAI Medical AI App
 
+Today I built Module 3 of NalaAI,
+an AI-powered Medical Assistant App.
+
+## Technologies Used
+- Python, FastAPI
+- LangChain + ChatPromptTemplate
+- LangGraph + StateGraph
+- Groq AI (LLaMA3)
+- python-dotenv
+
+## Module 3 – Hospital Finder
+- GPS-based Hospital Detection
+- Nearest Hospital List
+- Distance Calculation
+- Open/Closed Status
+- Emergency Contact Numbers
+
+## Learning Outcome
+I learned how to build an AI-powered hospital
+finder using LangGraph multi-node agent flow,
+LangChain for location processing,
+Groq AI for intelligent responses,
+and FastAPI for REST API endpoints.
