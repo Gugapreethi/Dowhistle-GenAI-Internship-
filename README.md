@@ -75,23 +75,6 @@ I gained a better understanding of advanced AI workflows, multi-agent orchestrat
 # Day 6 Learning – AI Email Generator
 
 Today I worked on building an AI Email Generator project using Python, Streamlit, and OpenAI API as part of my internship learning.
-
-# Day 13 Learning – Agentic AI & LangGraph
-
-Today I explored advanced AI development concepts as part of my internship learning journey.
-
-## Topics Covered Today
-- Agentic AI Fundamentals
-- LangChain
-- LangGraph Workflows
-- LLM Integration
-- AI Tools and Tool Calling
-- Message Types in AI Systems
-- Structured Outputs using Pydantic
-- Python Environment Setup with UV Package Manager
-
-## Learning Outcome
-I gained a better understanding of AI agent workflows, tool integration, structured outputs, and modern AI application development using LangChain and LangGraph.
 ## Features
 - AI-powered email generation
 - Multiple email tone options
@@ -330,7 +313,21 @@ for intelligent text translation and tone
 modification across multiple languages
 including Tamil, Hindi, French, Spanish,
 German and Japanese.
-# Day 13 Learning – NalaAI Medical AI App
+# Day 13 Learning – Agentic AI & LangGraph
+Today I explored advanced AI development concepts as part of my internship learning journey.
+
+## Topics Covered Today
+- Agentic AI Fundamentals
+- LangChain
+- LangGraph Workflows
+- LLM Integration
+- AI Tools and Tool Calling
+- Message Types in AI Systems
+- Structured Outputs using Pydantic
+- Python Environment Setup with UV Package Manager
+## Learning Outcome
+I gained a better understanding of AI agent workflows, tool integration, structured outputs, and modern AI application development using LangChain and LangGraph.
+# Day 14 Learning – NalaAI Medical AI App
 
 Today I worked on Module 1 of NalaAI,
 an AI-powered Medical Assistant App using Python,
@@ -371,7 +368,7 @@ for prompt engineering, StrOutputParser for
 clean response handling, Groq AI for fast
 Tamil language response generation, and
 FastAPI for building clean REST API endpoints.
-# Day 14 Learning – NalaAI Medical AI App
+# Day 15 Learning – NalaAI Medical AI App
 
 Today I built Module 2 of NalaAI,
 an AI-powered Medical Assistant App.
@@ -396,5 +393,4 @@ using LangGraph multi-node agent flow,
 LangChain for prompt engineering,
 Groq AI for Tamil medical responses,
 and FastAPI for REST API endpoints.
-# Dowhistle-GenAI-Internship-
-Daily internship learning updates, AI experiments.
+
