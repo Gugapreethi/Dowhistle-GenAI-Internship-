@@ -418,3 +418,19 @@ finder using LangGraph multi-node agent flow,
 LangChain for location processing,
 Groq AI for intelligent responses,
 and FastAPI for REST API endpoints.
+# Day 17 Learning – Google ADK Fundamentals
+
+Today I learned about Google ADK and its core functionalities through internship training sessions.
+
+## Topics Learned
+- Agent-based Architecture
+- Structured Outputs using Pydantic
+- Gemini Model Integration
+- LightLLM Model Integration
+- ADK Tools and Tool Calling
+- Session Handling
+- Runner Flow
+- State Management in AI Applications
+
+## Learning Outcome
+I gained a better understanding of AI agent workflows, structured output handling, model integration, and state management concepts using Google ADK.
