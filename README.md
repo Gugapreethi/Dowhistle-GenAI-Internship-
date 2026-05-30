@@ -434,3 +434,28 @@ Today I learned about Google ADK and its core functionalities through internship
 
 ## Learning Outcome
 I gained a better understanding of AI agent workflows, structured output handling, model integration, and state management concepts using Google ADK.
+# Day 18 Learning – NalaAI Medical AI App
+
+Today I built Module 4 of NalaAI,
+an AI-powered Medical Assistant App.
+
+## Technologies Used
+- Python, FastAPI
+- LangChain + ChatPromptTemplate
+- StrOutputParser
+- Groq AI (LLaMA3)
+- python-dotenv
+
+## Module 4 – Medicine Reminder
+- Add Medicine with Dosage
+- Morning/Afternoon/Night Selection
+- AI-powered Tamil Medicine Info
+- JSON-based Permanent Storage
+- Delete Medicine Option
+
+## Learning Outcome
+I learned how to build an AI-powered medicine
+reminder using LangChain for medicine info
+generation, Groq AI for Tamil language response,
+JSON file for permanent storage, and FastAPI
+for clean REST API endpoints.
