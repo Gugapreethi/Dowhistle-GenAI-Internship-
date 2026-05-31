@@ -459,3 +459,28 @@ reminder using LangChain for medicine info
 generation, Groq AI for Tamil language response,
 JSON file for permanent storage, and FastAPI
 for clean REST API endpoints.
+# Day 19 Learning – NalaAI Medical AI App
+
+Today I built Module 5 of NalaAI,
+an AI-powered Medical Assistant App.
+
+## Technologies Used
+- Python, FastAPI
+- LangChain + ChatPromptTemplate
+- StrOutputParser
+- Groq AI (LLaMA3)
+- python-dotenv
+
+## Module 5 – Health Records
+- Store Personal Health Information
+- Blood Group and Age Tracking
+- Allergies and Medical History Storage
+- AI-powered Tamil Health Summary
+- JSON-based Permanent Storage
+
+## Learning Outcome
+I learned how to build an AI-powered health
+records system using LangChain for health data
+processing, Groq AI for Tamil health summary
+generation, JSON file for permanent storage,
+and FastAPI for clean REST API endpoints.
