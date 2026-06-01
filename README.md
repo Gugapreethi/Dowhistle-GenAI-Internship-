@@ -484,3 +484,30 @@ records system using LangChain for health data
 processing, Groq AI for Tamil health summary
 generation, JSON file for permanent storage,
 and FastAPI for clean REST API endpoints.
+
+# Day 20 Learning – NalaAI Medical AI App
+
+Today I built Module 6 of NalaAI,
+an AI-powered Medical Assistant App.
+
+## Technologies Used
+- Python, FastAPI
+- LangChain + ChatPromptTemplate
+- LangGraph + StateGraph
+- Groq AI (LLaMA3)
+- python-dotenv
+
+## Module 6 – Emergency SOS
+- One Tap Emergency Alert
+- GPS Location Detection
+- AI-powered Nearest Hospital Finder
+- Emergency Contact Alert
+- Tamil Language Response
+- Emergency Numbers (108, 100, 101, 104)
+
+## Learning Outcome
+I learned how to build an AI-powered emergency
+SOS system using LangGraph multi-node agent flow,
+LangChain for location processing, Groq AI for
+Tamil nearest hospital detection, and FastAPI
+for REST API endpoints.
