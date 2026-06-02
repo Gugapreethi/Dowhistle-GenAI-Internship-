@@ -511,3 +511,27 @@ SOS system using LangGraph multi-node agent flow,
 LangChain for location processing, Groq AI for
 Tamil nearest hospital detection, and FastAPI
 for REST API endpoints.
+# Day 21 Learning – MindBridgeAI
+Today I built the Frontend Foundation of MindBridgeAI,
+an AI-powered Mental Health and Elder Care Assistant.
+
+## Technologies Used
+- React Native (Expo)
+- JavaScript
+- React Navigation
+- Async Storage
+- Axios
+
+## Module 1 – Frontend Setup & Navigation
+
+- Created Expo React Native Project
+- Configured Project Folder Structure
+- Implemented React Navigation
+- Added Home, Chat and Profile Screens
+- Setup Async Storage for User Data
+- Configured API Integration Layer using Axios
+- Built Foundation for AI Agent Integration
+
+## Learning Outcome
+
+I learned how to structure a scalable React Native application, implement multi-screen navigation, manage local user data using Async Storage, and prepare the frontend architecture for Agentic AI integration. This module serves as the foundation for future features such as mood tracking, AI conversation agents, voice support, and elder care assistance.
