@@ -593,3 +593,26 @@ crisis detection system, voice support for elders,
 push notifications, and persistent data storage
 using AsyncStorage.
 
+# Day 24 Learning – MindBridge AI Mental Health App
+
+Today I completed Module 1 – Python Backend + LangGraph Multi-Agent System for MindBridge AI, an AI-powered Mental Health Companion App.
+
+## Technologies Used
+- Python, FastAPI
+- LangChain + ChatPromptTemplate
+- LangGraph + StateGraph
+- Groq AI (LLaMA 3.1)
+- ChromaDB (RAG)
+- python-dotenv
+
+## Module 1 – Python Backend + LangGraph Agents
+- Listener Agent – Daily conversation + mood detection
+- Pattern Recognition Agent – Week-over-week mood analysis
+- Crisis Detection Agent – Danger sign detection + severity classification
+- Care Network Agent – Family alert system
+- Orchestrator Agent – All agents coordinate via LangGraph StateGraph
+- FastAPI REST endpoints – React Native frontend connect
+
+## Learning Outcome
+I learned how to build a multi-agent AI system using LangGraph StateGraph, coordinate multiple specialized agents through an Orchestrator, implement RAG with ChromaDB for conversation history, and expose FastAPI endpoints for mobile app integration with Groq AI (LLaMA 3.1) for empathetic mental health responses.
+
