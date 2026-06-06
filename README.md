@@ -615,4 +615,28 @@ Today I completed Module 1 – Python Backend + LangGraph Multi-Agent System for
 
 ## Learning Outcome
 I learned how to build a multi-agent AI system using LangGraph StateGraph, coordinate multiple specialized agents through an Orchestrator, implement RAG with ChromaDB for conversation history, and expose FastAPI endpoints for mobile app integration with Groq AI (LLaMA 3.1) for empathetic mental health responses.
+# Day 25 Learning – MindBridge AI Mental Health App
+
+Today I completed Module 2 – RAG System + JSON-based Memory for MindBridge AI, an AI-powered Mental Health Companion App.
+
+## Technologies Used
+- Python, FastAPI
+- LangChain + ChatPromptTemplate
+- LangGraph + StateGraph
+- Groq AI (LLaMA 3.1)
+- JSON File-based RAG Storage
+- python-dotenv
+
+## Module 2 – RAG System + Memory
+- Conversation Memory – JSON-based chat history storage
+- Mood History Storage – 30-day mood tracking
+- Pattern Recognition – Week-over-week mood analysis
+- Trend Detection – Improving / Declining / Stable
+- Personalized Responses – History-based AI replies
+- Multi-language Support – Tamil, English, Hindi
+
+## Learning Outcome
+I learned how to implement a RAG (Retrieval Augmented Generation) system using JSON file-based storage for conversation history and mood data, integrate it with LangGraph StateGraph for multi-agent coordination, and use Groq AI (LLaMA 3.1) to generate personalized mental health responses based on user history and mood patterns.
+
+
 
