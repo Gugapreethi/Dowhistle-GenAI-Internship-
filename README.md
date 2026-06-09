@@ -682,3 +682,27 @@ Today I completed Module 4 – Elder Specific Features for MindBridge AI, an AI-
 ## Learning Outcome
 I learned how to build elder-specific features in React Native including medication tracking with taken/pending status, cognitive memory games using state management, voice-first interface using expo-speech for Tamil and English, and a comprehensive notification system with 6 daily scheduled reminders tailored for elderly users using expo-notifications.
 
+# Day 28 Learning – MindBridge AI Mental Health App
+
+Today I completed Module 5 – Student Specific Features for MindBridge AI, an AI-powered Mental Health Companion App.
+
+## Technologies Used
+- React Native (Expo SDK 51)
+- expo-notifications
+- AsyncStorage
+- React Native Animations
+- Groq AI (LLaMA 3.1)
+
+## Module 5 – Student Specific Features
+- Pomodoro Study Timer – 25 min study + 5 min break auto-switch
+- Daily Affirmations – Random motivational quotes Tamil & English
+- Stress Level Tracker – 1-5 visual stress indicator
+- High Stress Alert – Auto tip suggestions when stress ≥ 4
+- Study Break Tips – Breathing, walking, body scan techniques
+- Campus Resources – iCall, Vandrevala, SAHAS helplines
+- Anonymous Mode – Privacy-first for students
+- Student-Specific Tab – Auto-shows only for student users
+
+## Learning Outcome
+I learned how to build student-specific mental wellness features in React Native including a Pomodoro timer with auto break switching using useEffect intervals, random daily affirmations with refresh functionality, a visual stress tracker with color-coded levels, and integrated campus counseling resources — all conditionally rendered only for student user type.
+
