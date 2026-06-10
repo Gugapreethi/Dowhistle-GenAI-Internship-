@@ -705,4 +705,30 @@ Today I completed Module 5 – Student Specific Features for MindBridge AI, an A
 
 ## Learning Outcome
 I learned how to build student-specific mental wellness features in React Native including a Pomodoro timer with auto break switching using useEffect intervals, random daily affirmations with refresh functionality, a visual stress tracker with color-coded levels, and integrated campus counseling resources — all conditionally rendered only for student user type.
+# Day 29 Learning – MindBridge AI Mental Health App
+
+Today I completed Module 6 – User Login + Admin Dashboard for MindBridge AI, an AI-powered Mental Health Companion App.
+
+## Technologies Used
+- React Native (Expo SDK 51)
+- Python FastAPI
+- python-jose (JWT)
+- passlib + bcrypt
+- AsyncStorage
+- Groq AI (LLaMA 3.1)
+
+## Module 6 – User Login + Admin Dashboard
+- User Registration – Name, Email, Password, User Type, Language
+- BCrypt Password Hashing – Secure password storage
+- JWT Authentication – 24-hour token-based sessions
+- Auto Login – Token saved in AsyncStorage for persistent login
+- Login Screen – Email + Password with error handling
+- Register Screen – Full profile setup during signup
+- Admin Dashboard – All users list with burnout scores
+- Crisis Alert Monitoring – Admin views all crisis events
+- Admin Analytics – Total users, avg mood, active today
+- Default Admin Account – Auto-created on server startup
+
+## Learning Outcome
+I learned how to implement a complete authentication system in React Native + FastAPI including BCrypt password hashing, JWT token generation and verification, persistent login using AsyncStorage, and an admin dashboard that displays all user analytics and crisis alerts with role-based access control using JWT payload verification.
 
