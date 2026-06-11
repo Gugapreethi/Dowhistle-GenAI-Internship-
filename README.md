@@ -731,7 +731,7 @@ Today I completed Module 6 – User Login + Admin Dashboard for MindBridge AI, a
 
 ## Learning Outcome
 I learned how to implement a complete authentication system in React Native + FastAPI including BCrypt password hashing, JWT token generation and verification, persistent login using AsyncStorage, and an admin dashboard that displays all user analytics and crisis alerts with role-based access control using JWT payload verification.
-# Day 28 Learning – MindBridge AI Mental Health App
+# Day 30 Learning – MindBridge AI Mental Health App
 
 Today I completed Module 7 – Social Features + Wellness for MindBridge AI, an AI-powered Mental Health Companion App.
 
