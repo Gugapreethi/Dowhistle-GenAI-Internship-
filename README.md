@@ -731,4 +731,27 @@ Today I completed Module 6 – User Login + Admin Dashboard for MindBridge AI, a
 
 ## Learning Outcome
 I learned how to implement a complete authentication system in React Native + FastAPI including BCrypt password hashing, JWT token generation and verification, persistent login using AsyncStorage, and an admin dashboard that displays all user analytics and crisis alerts with role-based access control using JWT payload verification.
+# Day 28 Learning – MindBridge AI Mental Health App
+
+Today I completed Module 7 – Social Features + Wellness for MindBridge AI, an AI-powered Mental Health Companion App.
+
+## Technologies Used
+- React Native (Expo SDK 51)
+- AsyncStorage
+- React Native Animations
+- expo-notifications
+- Groq AI (LLaMA 3.1)
+
+## Module 7 – Social Features + Wellness
+- Gratitude Journal – Daily 3 positive things logging with history
+- Daily Affirmations – Random motivational quotes Tamil & English
+- Milestone Celebrations – 7-day streak, 10 chats, 30-day badges
+- Achievement Badges – Unlockable rewards for app engagement
+- Mood Streak Tracker – Consecutive daily check-in counter
+- Anonymous Community – Peer support without identity reveal
+- Weekly Summary – Personal wellness recap every Sunday
+- Celebration Animations – Confetti on milestone achievement
+
+## Learning Outcome
+I learned how to build social wellness features in React Native including a gratitude journal with AsyncStorage persistence, milestone and achievement badge systems with unlock conditions, animated celebration screens using React Native Animated API, daily affirmation rotation in Tamil and English, and an anonymous community support feature that protects user privacy while enabling peer connection.
 
